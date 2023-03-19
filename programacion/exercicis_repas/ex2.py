@@ -1,0 +1,36 @@
+numero = 0 
+
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+resultado = numero * 7
+print(numero, "x 7 =", resultado)
+numero += 1
+
