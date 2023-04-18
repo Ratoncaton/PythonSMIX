@@ -1,5 +1,0 @@
-Securew2. Diferencies entre WPA2-Personal i WPA2-Enterprise. Recuperat el 28/02/23, des de https://www.securew2.com/blog/should-wpa2-enterprise-be-used-for-my-home-network
-Wifi-professionals. Funcionament de la connexió 4 Way Handshake. Recuperat el 01/03/23, des de https://www.wifi-professionals.com/2019/01/4-way-handshake
-App/documents#/dashboard. Creació de diagrames i topologies. Recuperat el 03/03/23, des de https://lucid.app/documents#/dashboard
-Meraki. Saber com funcionen els diferents modes del WPA3. Recuperat el 06/03/23, des de https://documentation.meraki.com/MR/Wi-Fi_Basics_and_Best_Practices/WPA3_Encryption_and_Configuration_Guide
-Qacafe. Funcionament del SAE en el protocol WPA3. Recuperat el 06/03/23, des de https://www.qacafe.com/resources/what-is-wpa3-how-to-test-wifi/

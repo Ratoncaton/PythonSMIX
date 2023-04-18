@@ -58,10 +58,16 @@ def get_all_pokemons():
             pokeloaded += 1
             print(pokeloaded)
         
-        with open("pokefile.pkl", "wb") as pokefile:
+        with open("pokefile.txt", "wb") as pokefile:
             pickle.dump(all_pokemons, pokefile)
 
         print("\nTodos los pokemons han sido descargados")
     
     print("¡Lista de pokemons cargada!")
     return all_pokemons
+
+def main():
+    get_all_pokemons()
+
+if __name__ == "__main__":
+    main()
